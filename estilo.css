@@ -1,0 +1,132 @@
+.navbar {
+    font-family: 'Roboto';
+    letter-spacing: 1px;
+    font-size: 1.2em;
+
+}
+
+.card-header {
+    font-family: 'Roboto';
+    letter-spacing: 1px;
+}
+
+.card:hover {
+    background-color: #e0f3e0;
+    font-family: 'Roboto';
+}
+
+
+
+
+body {
+    font-family: 'Roboto';
+    cursor: pointer;
+
+}
+
+p {
+    letter-spacing: 1px;
+    font-family: 'Roboto';
+
+}
+
+h2 {
+    font-family: 'Roboto';
+    letter-spacing: 1px;
+
+
+}
+
+
+.titulo {
+    margin: 20px;
+    padding: 20px;
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    text-shadow: 1px 2px 8px #504401;
+    font-family: 'Roboto';
+    font-weight: 700;
+
+}
+
+.sub {
+    color: #000700;
+    margin-left: 5px;
+}
+
+hr {
+    color: rgb(32, 25, 25) 1px bold;
+}
+
+.card-title {
+
+    letter-spacing: 1px;
+    color: black bold;
+    font-family: 'Roboto';
+}
+
+footer {
+
+    font-family: 'Roboto';
+
+}
+
+.corpo {
+    background-color: rgb(62, 61, 61);
+    font-size: 20px;
+    font-family: 'Roboto';
+}
+
+
+#card_form {
+    background-color: rgb(110, 107, 107);
+    color: rgb(253, 253, 253);
+    font-family: 'Roboto';
+    letter-spacing: 1px;
+    border-radius: 6px;
+}
+
+.card-title {
+
+    font-family: 'Roboto';
+    left: 1px;
+    font-size: 20px;
+}
+
+::placeholder {
+    line-height: 1px;
+    font-family: 'Roboto';
+}
+
+.btn {
+
+    letter-spacing: 1px;
+    font-family: 'Roboto';
+}
+
+.legend {
+    letter-spacing: 1px;
+    font-family: 'Roboto';
+    font-size: 35px;
+}
+
+.form {
+    font-family: 'Roboto';
+    left: 1px;
+    background-color: #ffffff;
+    letter-spacing: 1px;
+
+}
+
+a {
+    font-family: 'Roboto';
+    text-decoration: none;
+    color: #f8f8f8;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    letter-spacing: 1px;
+    font-family: 'Roboto';
+}
